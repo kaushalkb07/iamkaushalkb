@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working as **Freelancer**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin and DJANGO**
 
-- 💬 Ask me about **Front End and UI / UX**
+- 💬 Ask me about **Back End and UI / UX**
 
 - 📫 How to reach me **iamkaushalkb@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/iamkaushalkb/Resume](https://github.com/iamkaushalkb/Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
